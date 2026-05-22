@@ -56,10 +56,4 @@ The Attendance Management System is a software application developed to manage a
 
 ---
 
-## ✅ ADVANTAGES
-- ⏳ Saves time and effort
-- 📉 Reduces paperwork
-- ✔ Improves accuracy
-- 📂 Easy access to records
-- 📋 Organized data management
-- 🚀 Fast attendance tracking
+
