@@ -1,8 +1,12 @@
 # Attendance-Management-System-
 The Attendance Management System is a digital application used to manage student attendance records efficiently. It helps reduce manual work, saves time, and improves accuracy in attendance tracking. The system allows easy recording, monitoring, and management of attendance data for schools and colleges.
 
+---
+
 ## 📖 OVERVIEW
 The Attendance Management System is a software application developed to manage and maintain student attendance records digitally. This project helps schools and colleges reduce manual paperwork and improve the accuracy of attendance tracking. It provides an efficient and organized way to record, store, and monitor attendance data.
+
+---
 
 ## 🎯 OBJECTIVES
 - Reduce manual work in attendance management
@@ -10,6 +14,8 @@ The Attendance Management System is a software application developed to manage a
 - Save time for teachers and administrators
 - Maintain attendance data digitally
 - Generate attendance reports easily
+
+---
 
 ## ✨ FEATURES
 - 📝 Digital attendance recording
