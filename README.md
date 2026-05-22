@@ -56,4 +56,6 @@ The Attendance Management System is a software application developed to manage a
 
 ---
 
-Update README
+![Attendance Management System](image1.png)
+![Attendance Management System](image2.png)
+
