@@ -66,5 +66,25 @@ The Attendance Management System is a software application developed to manage a
 ```bash
 python attendance.py
 ```
+---
+
+## 🖥️ Sample Output
+
+```text
+===== Attendance Management System =====
+
+Enter Student Name: Rahul
+Enter Roll Number: 101
+Enter Attendance (Present/Absent): Present
+
+----- Attendance Details -----
+Student Name : Rahul
+Roll Number  : 101
+Attendance   : Present
+
+Attendance Recorded Successfully!
+
+---
+
 
 
