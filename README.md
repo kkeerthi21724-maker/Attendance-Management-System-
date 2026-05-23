@@ -61,7 +61,10 @@ The Attendance Management System is a software application developed to manage a
 ![Attendance Management System](image2.png)
 ![Attendance Management System](image3.png)
 
-## Full Source Code
-[Click here to view attendence.py]
-[attendance.py](attendance.py)
+## ▶️ Execution
+
+```bash
+python attendance.py
+```
+
 
