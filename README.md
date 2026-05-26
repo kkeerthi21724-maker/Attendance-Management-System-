@@ -70,5 +70,7 @@ python attendance.py
 
 ## 🖥️ Sample Output
 
+![Attendance Management Sysytem](sample output.png)
+
 
 
