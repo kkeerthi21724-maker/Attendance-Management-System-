@@ -105,12 +105,10 @@ The Attendance Management System is a useful and efficient software application 
 ## 👩‍💻 DEVELOPED BY
 
 Name:V.Keerthana
-
 Branch: AIML- A section 
-
 Roll Number:160625748064
 
 ---
-Thank you
+##Thank you
 
 
